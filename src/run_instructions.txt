@@ -1,0 +1,17 @@
+This project is created in IntelliJ. JDK Used is JDK 8 rev 31
+In IntelliJ project settings, language level is set to 8
+
+Other than standard JDK libraries, only org.junit is used for tests
+
+To run the application, simply run CrowdMixMain as Java Application
+
+The available commands are displayed as help on application startup.
+
+The commands are exactly as per the pdf requirements. Only addition is the "quit" command to quit out of application
+
+In case the command entered is wrong, the list of available commands is displayed again.
+
+Lastly, once the application is started, it runs continually and waits for input (and of course processing
+those commands) till quit command is entered
+
+
